@@ -1,0 +1,11 @@
+# cache files
+.DS_Store
+
+# tar files
+*.tar
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.tar.lzma
+*.tar.lz
+*.tar.lzo
